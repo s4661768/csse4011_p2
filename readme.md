@@ -5,3 +5,5 @@ Students built on functionality developed in the first assignment. For this seco
 -	NRF Dongle: Used as a packet sniffer in combination with WireShark
 
 Zephyr was used as the RTOS for this project.
+
+The source files required for this project are in the .../src/ directories for the Thingy52 and DK boards respectively.
