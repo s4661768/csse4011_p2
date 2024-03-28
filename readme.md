@@ -3,4 +3,5 @@ Students built on functionality developed in the first assignment. For this seco
 -	 NRF52840DK: The main processor that handled reading bluetooth from the the Thingy52, taking user input from the zephyr shell, and sending data to my team mates controller via UART connection.
 -	Thing52: Used to read onboard temperature, humidity, pressure, and air quality sensors as well as broadcast the data using the iBeacon protocol of bluetooth.
 -	NRF Dongle: Used as a packet sniffer in combination with WireShark
+
 Zephyr was used as the RTOS for this project.
